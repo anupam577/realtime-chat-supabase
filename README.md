@@ -1,6 +1,4 @@
-#About 
-Random chat 
-https://realtime-chat-supabase.netlify.app/
+
 
 # Full-stack real-time chat
 
