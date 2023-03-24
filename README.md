@@ -55,4 +55,4 @@ Follow instrunction [here](https://supabase.io/docs/guides/auth/auth-github)
 # Demo Link
 https://realtime-chat-supabase.netlify.app/
 
-https://drive.google.com/file/d/1BTX8ZW5oHhykP70G0g2NmHvn72fT92o_/view?usp=sharing
+
