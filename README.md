@@ -1,3 +1,7 @@
+#About 
+Random chat 
+https://realtime-chat-supabase.netlify.app/
+
 # Full-stack real-time chat
 
 - **Data:** PostgeSQL managed by [Supabase](https://supabase.io/) [@supabase_io](https://twitter.com/supabase_io) (awsome real-time API).
