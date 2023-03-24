@@ -28,7 +28,7 @@ export default function Footer() {
         </GridItem>
         <GridItem justifySelf="end">
           <a
-            href=""
+            href="https://github.com/anupam577/realtime-chat-supabase"
             target="_blank"
             rel="noreferrer"
           >
