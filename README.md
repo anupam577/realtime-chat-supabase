@@ -57,6 +57,3 @@ Follow instrunction [here](https://supabase.io/docs/guides/auth/auth-github)
 [https://random-chat.netlify.app](https://random-chat.netlify.app/)
 
 !['demo'](https://random-chat.netlify.app/demo.png "demo")
-#� �r�e�a�l�t�i�m�e�-�c�h�a�t�-�s�u�p�a�b�a�s�e�
-�
-�
