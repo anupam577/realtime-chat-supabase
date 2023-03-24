@@ -17,7 +17,7 @@ export default function Header() {
       borderBottom="20px solid #edf2f7"
     >
       <GridItem justifySelf="start" m="2">
-        <Image src="/logo.png" height="30px" ml="2" />
+        <Image src="https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg" height="30px" ml="2" />
       </GridItem>
       {auth.user() ? (
         <>
