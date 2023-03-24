@@ -52,8 +52,7 @@ Follow instrunction [here](https://supabase.io/docs/guides/auth/auth-github)
 
 `npm run build` to build the react client
 
-# Demo
+# Demo Link
+https://realtime-chat-supabase.netlify.app/
 
-[https://random-chat.netlify.app](https://random-chat.netlify.app/)
-
-!['demo'](https://random-chat.netlify.app/demo.png "demo")
+https://drive.google.com/file/d/1BTX8ZW5oHhykP70G0g2NmHvn72fT92o_/view?usp=sharing
